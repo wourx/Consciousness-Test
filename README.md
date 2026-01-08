@@ -11,7 +11,7 @@ I argue that a truly conscious entity, even when isolated from all external data
 ## 📥 Read the Full Paper
 You can view or download the detailed formal hypothesis and proof method here:
 
-[**Download the PDF (Internal_Derivation_Hypothesis.pdf)**](./Internal_Derivation_Hypothesis_AI_Consciousness.pdf)
+[**Download the Official Paper (Zenodo)**](https://zenodo.org/records/18181301)
 
 *(Note: Replace the filename above with exactly whatever you named your PDF file)*
 
